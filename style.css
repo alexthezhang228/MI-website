@@ -259,3 +259,30 @@ img{
   width: 200px;
   height: 40px;
 }
+
+
+
+.container-fluid{
+  background-color: orange;
+  text-align: center;
+}
+
+
+.title ul{
+  color: rgb(91, 91, 85);
+}
+
+/* .follow_xiaomi{
+  text-align: justify;
+} */
+.last_title{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+.logos{
+  display: flex;
+  color: aliceblue;
+  padding-left: 0;
+} 
+
